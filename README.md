@@ -11,3 +11,5 @@ KT Assessment
 8. Once user performs switch user/add account action then the location data will be cleared in realm
 9. Once user is signed out all user and location data will be cleared in realm
 10. Handling theme and orientation changes is not implemented
+
+**Note - Edit local.defaults.properties file with Google Map API key for successful build**
