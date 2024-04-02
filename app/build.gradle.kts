@@ -29,7 +29,7 @@ android {
 
         // A properties file containing default secret values. This file can be
         // checked in version control.
-//        defaultPropertiesFileName = "local.defaults.properties"
+        defaultPropertiesFileName = "local.defaults.properties"
 
         // Configure which keys should be ignored by the plugin by providing regular expressions.
         // "sdk.dir" is ignored by default.
@@ -89,6 +89,9 @@ dependencies {
     implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-android:$coroutine_version")
     implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-play-services:$coroutine_version")
 
+    // Import the BoM for the Firebase platform
+    implementation(platform("com.google.firebase:firebase-bom:32.8.0"))
+    implementation("com.google.firebase:firebase-auth")
     implementation("com.firebaseui:firebase-ui-auth:7.2.0")
 
     // permissions library
