@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TelematicsAssessment</string>
+    <string name="default_web_client_id">133793647110-a5ek7brghoctir650oaeiq89f2toaoom.apps.googleusercontent.com</string>
+    <string name="play">PLAY</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="add_account">Add Account</string>
+</resources>

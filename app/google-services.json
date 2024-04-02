@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "133793647110",
+    "project_id": "ktassessment",
+    "storage_bucket": "ktassessment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133793647110:android:52073bac1bb72775595187",
+        "android_client_info": {
+          "package_name": "com.sridhar.telematics.assessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133793647110-pe1bkmkn1ak1q38luan0q0rfcl1lqq7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sridhar.telematics.assessment",
+            "certificate_hash": "2d43a7c4c34477b36576e7d8dec70c2a6651d9a0"
+          }
+        },
+        {
+          "client_id": "133793647110-a5ek7brghoctir650oaeiq89f2toaoom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyUZxegUgaF0sAZhESYidrYPSr52taUdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133793647110-a5ek7brghoctir650oaeiq89f2toaoom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
